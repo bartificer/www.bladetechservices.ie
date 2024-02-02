@@ -1,2 +1,3 @@
-# www.bladetechservices.ie
-Static placeholder site for Blade Tech Services
+# Static Website for Blade Tech Services Ltd.
+
+Published at http://www.bladetechservices.ie/.
